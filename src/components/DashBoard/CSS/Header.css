@@ -1,0 +1,33 @@
+.Header{
+    border-radius: 30px;
+    background-color:rgb(37, 40, 45);
+}
+
+.link-nav{
+    margin-left: 30px;
+}
+
+#playAll{
+   font-style:inherit;
+   background-color: pink;
+   border-radius: 10px;
+}
+
+/* .avatar{
+    margin-left: 230px;
+} */
+
+.mr-auto{
+    display: flex;
+    justify-content: space-between;
+} 
+
+/* @media (max-width:768px){
+    .Header{
+        flex-direction: column;
+        align-items: center;
+    }
+} */
+
+
+

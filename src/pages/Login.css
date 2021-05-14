@@ -1,0 +1,48 @@
+.main{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+
+.parent{
+    width: 30rem;
+    box-shadow: 10px 10px 5px grey;
+    border: 1px solid black;
+    margin-top: 80px;
+    box-sizing: border-box;
+}
+
+.account{
+    margin: 50px;
+    align-self: center;
+
+}
+.form{
+  display: flex;
+  flex-direction: column;
+}
+.checkbox{
+  align-self: center;
+}
+
+
+.button{
+  margin-bottom: 3px;
+}
+
+@media (max-width:500px){
+  .parent{
+    width: 20rem;
+  }
+}
+
+@media (max-width:300px){
+  .parent{
+    width: 15rem;
+  }
+}
+
+
+
+

@@ -1,0 +1,19 @@
+.check{
+    transform: scale(1);
+}
+
+
+.small{
+    transform: scale(0.5);
+
+}
+
+.med{
+    transform: scale(2);
+
+}
+
+.big{
+    transform: scale(3);
+
+}
